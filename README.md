@@ -7,4 +7,4 @@ Website & documentation for [Franklin.jl](https://github.com/tlienart/Franklin.j
 
 ## Dev note
 
-No prerendering (due to tricky code environments that get destroyed by highlight.js).
+No prerendering (due to tricky code environments that gets destroyed by highlight.js).
